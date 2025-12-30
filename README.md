@@ -2,6 +2,7 @@
 
 Project Overview:
 This project explores how different classification algorithms behave on a highly structured student performance dataset. The goal is not model optimization, but understanding how dataset characteristics influence classifier performance.
+This project is implemented as a single, structured Jupyter Notebook to allow clear comparison of how different classification models behave when applied to a highly structured educational dataset.
 
 Models Used
 - Logistic Regression
